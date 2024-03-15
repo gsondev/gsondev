@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gsondev
+- 👋 Hi, I’m Software Developer
 - 👀 I’m interested in web development, artificial intelligence, and open-source projects.
 - 🌱 I’m currently learning advanced JavaScript frameworks and diving deeper into machine learning algorithms.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and make a positive impact.
